@@ -1,6 +1,5 @@
 <h1 align="left">Hola👋, Soy Agustin</h1>
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=agusstingalvan&label=Profile%20views&color=ff00d0&style=flat-square" alt="agusstingalvan" /> </p>
-<h3 align="left">Diseñador de mi propio UNIVERSO</h3>
 
 - 📄 Soy Estudiante de la **Licenciatura de Producción de Videojuegos & Entretenimiento Digital [UNRAF]**
 
