@@ -117,10 +117,7 @@
 ---
 
 ### 🐍 Actividad en GitHub
-
-
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusstingalvan/agusstingalvan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusstingalvan/agusstingalvan/output/pacman-contribution-graph.svg">
